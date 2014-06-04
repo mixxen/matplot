@@ -1,0 +1,25 @@
+{
+  "name": "matplot",
+  "version": "0.1.2",
+  "homepage": "https://github.com/mixxen/matplot",
+  "authors": [
+    "Alexander Barth",
+    "Alexander Cabello <alexander.cabello@gmail.com>"
+  ],
+  "description": "JavaScript matrix plotting library",
+  "main": [
+    "dist/matplot.js",
+    "dist/matplot.css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "numericjs": "~1.2.6"
+  }
+}

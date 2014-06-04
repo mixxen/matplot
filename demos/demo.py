@@ -20,8 +20,8 @@ templateDef='''
    <link href="prettify/prettify.css" type="text/css" rel="stylesheet" />
    <script type="text/javascript" src="prettify/prettify.js"></script>
    <script type="text/javascript" src="numeric-1.2.3.js"></script>
-   <link href="../matplot.css" rel="stylesheet" type="text/css" />
-   <script type="text/javascript" src="matplot.js"></script>
+   <link href="../dist/matplot.css" rel="stylesheet" type="text/css" />
+   <script type="text/javascript" src="../dist/matplot.js"></script>
 $head
 
    <script type="text/javascript">
