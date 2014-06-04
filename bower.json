@@ -3,7 +3,7 @@
   "version": "0.1.2",
   "homepage": "https://github.com/mixxen/matplot",
   "authors": [
-    "Alexander Barth",
+    "Alexander Barth <a dot barth at ulg.ac.be>",
     "Alexander Cabello <alexander.cabello@gmail.com>"
   ],
   "description": "JavaScript matrix plotting library",
